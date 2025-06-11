@@ -35,4 +35,4 @@ By running this your node modules will be set up in both folders and project is 
 
 
 Contact
-For inquiries and support, please contact [Pranav Singh] at [pranavsingh1604@gmail.com].
+For inquiries and support, please contact [Pallav Singh] at [pallavsingh07@gmail.com].
